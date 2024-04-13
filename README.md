@@ -9,10 +9,7 @@ https://www.sourcetreeapp.com/
 
 ![](images/001.png)
 
-`I agree...`にチェックを入れる  
-![](images/002.png)
-
-`Download`をクリック  
+`I agree...`にチェックを入れて、`Download`をクリック  
 ![](images/003.png)
 
 `ダウンロード`フォルダに保存する  
@@ -26,16 +23,12 @@ https://www.sourcetreeapp.com/
 `スキップ`をクリック  
 ![](images/006.png)
 
-`Mercurial`のチェックを外す  
-![](images/007.png)
-
-`次へ`をクリック  
+`Mercurial`のチェックを外して、`次へ`をクリック  
 ![](images/008.png)
 
 下記の通り入力  
 `Author Name` : GitHubのアカウント名  
 `Author Email Address` : GitHubの登録で使用したメアド
-![](images/009.png)
 ![](images/010.png)
 
 `いいえ`をクリック  
